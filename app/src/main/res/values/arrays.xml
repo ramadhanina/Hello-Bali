@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright (C) 2016 The Android Open Source Project
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~      http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+<resources>
+    <string-array name="name">
+        <item>Cafe</item>
+        <item>Gunung</item>
+        <item>Hotel</item>
+        <item>Mall</item>
+        <item>Museum</item>
+        <item>Pantai</item>
+        <item>Pasar</item>
+        <item>Pura</item>
+        <item>Restoran</item>
+        <item>Tempat Wisata</item>
+    </string-array>
+    <array name="picture">
+        <item>@drawable/cafe</item>
+        <item>@drawable/gunung</item>
+        <item>@drawable/hotel</item>
+        <item>@drawable/mall</item>
+        <item>@drawable/museum</item>
+        <item>@drawable/pantai</item>
+        <item>@drawable/pasar</item>
+        <item>@drawable/pura</item>
+        <item>@drawable/restaurant</item>
+        <item>@drawable/tempatwisata</item>
+    </array>
+</resources>
