@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "137469390130",
+    "firebase_url": "https://hellobali-95396.firebaseio.com",
+    "project_id": "hellobali-95396",
+    "storage_bucket": "hellobali-95396.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:137469390130:android:93f4e5bd7fd0e465",
+        "android_client_info": {
+          "package_name": "id.sch.smktelkom_mlg.project.xirpl4091827.hellobali"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "137469390130-sn0rflsbbrbeops1gafmacdt5orrt2a3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOV6OxgIKN1yLJTzpyLGgCp3r2E5Is7e8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
