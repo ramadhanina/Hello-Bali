@@ -6,31 +6,34 @@
     android:background="?android:attr/selectableItemBackground"
     android:layout_width="match_parent"
     android:layout_height="wrap_content">
-    
+
     <ImageView
-        android:id="@+id/imageView"
+        android:id="@+id/imageViewCafe"
         android:layout_width="80dp"
         android:layout_height="80dp"
         android:scaleType="centerCrop"
-        tools:src="@drawable/cafe"/>
+        tools:src="@drawable/cafe"/>\
+
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_alignParentTop="true"
-        android:layout_toRightOf="@+id/imageView"
-        android:layout_toEndOf="@+id/imageView"
+        android:layout_toRightOf="@+id/imageViewCafe"
+        android:layout_toEndOf="@+id/imageViewCafe"
         android:layout_marginLeft="8dp"
         android:layout_marginStart="8dp"
         android:maxLines="1"
         android:ellipsize="end"
-        tools:text="Judul"
-        android:id="@+id/textViewCafe"/>
+        tools:text="JudulCafe"
+        android:id="@+id/textViewJudulCafe"
+        android:textAppearance="@style/TextAppearance.AppCompat.Title"/>
+
     <TextView
         tools:text="Deskripsi"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_below="@+id/textViewJudul"
-        android:layout_alignLeft="@+id/textViewJudul"
+        android:layout_below="@+id/textViewJudulCafe"
+        android:layout_alignLeft="@+id/textViewJudulCafe"
         android:layout_alignStart="@+id/textViewJudul"
         android:maxLines="2"
         android:ellipsize="end"

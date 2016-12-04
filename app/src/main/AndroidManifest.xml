@@ -33,8 +33,8 @@
         <activity
             android:name=".DescriptionActivity"
             android:label="@string/title_activity_description"
-            android:theme="@style/AppTheme.NoActionBar"></activity>
-        <activity android:name=".OptionActivity"></activity>
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name=".Cafeo"></activity>
     </application>
 
 </manifest>
